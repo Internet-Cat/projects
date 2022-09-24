@@ -1,6 +1,7 @@
 # projects
 test
-![image](./images/unnamed.jpg)
+
+![image](images/unnamed.jpg)
 
 # The largest heading
 ## The second largest heading
